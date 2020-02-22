@@ -1,0 +1,1 @@
+('Financial Analysis-----------------------Total Months:', 86, ' Total Budget Revenue:', 38382578.0, ' Average Revenue Change:  $', -2315, ' Greatest Increase in Budget:  Jan-2012  $1926159.0', ' Greatest Decrease in Budget:  Aug-2013  $-2196167.0', ' ')
